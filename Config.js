@@ -1,12 +1,12 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2348142062575", // your number with country code
-  OWNER_NAME: 'daniel', // your owner name 
+  OWNER_NUMBERS: "2349035515612", // your number with country code
+  OWNER_NAME: 'rexblessed', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'kord_ai-nPu4h88cwd1i', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-LYGae0wD0e33', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "private",
+  WORK_MODE: "Private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
@@ -19,11 +19,11 @@ global.settings = {
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
   AUTO_LIKE_STATUS: true,
-  AUTO_LIKE_EMOJI: '🍁',
+  AUTO_LIKE_EMOJI: '😜',
   BANKING_DETAILS: {
-    bank: "opay", // the name of your preferred bank
-    acc_number: "8142062575", // account number for your preferred bank
-    acc_name: "daniel" // name of your bank
+    bank: "PALMPAY", // the name of your preferred bank
+    acc_number: "9035515612", // account number for your preferred bank
+    acc_name: "comfort nelson opeh" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {

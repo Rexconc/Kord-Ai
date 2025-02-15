@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
+  OWNER_NUMBERS: "2347060630428", // your number with country code
   OWNER_NAME: 'シ', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
+  SESSION_ID: 'kord_ai-bv2u2Gueou2O', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",

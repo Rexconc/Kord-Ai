@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2347060630428", // your number with country code
   OWNER_NAME: 'rexlove', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: 'kord_ai-CaQb6H0oJzWb', // replace your_sessionid with yours and make sure its inside the 
+  SESSION_ID: 'kord_ai-k34Uaxh4vOmURYEC', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
@@ -32,14 +32,14 @@ global.settings = {
   SAFE_SEARCH: true,
   REJECT_CALLS: true,
   SEND_WELCOME_MESSAGE: true,
-  WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
+  WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊 i hope you leave soon",
   DELETE_WA_LINKS: true,
   ANTI_DELETE_ENABLED: true,
   ANTI_EDIT_ENABLED: true,
   ANTI_EDIT_IN_CHAT: true,
   ANTI_PM_SPAM: false, //pm permit 
   ANTI_PM_SPAM_COUNT: 6,
-  AUTO_TYPING: false, // if you wnat the bot to be typing always 
+  AUTO_TYPINGtoogle, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
   ALWAYS_ONLINE: true,
 

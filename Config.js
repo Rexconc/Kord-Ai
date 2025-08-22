@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2347060630428", // your number with country code
   OWNER_NAME: 'rexlove', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: 'kord_ai-k34Uaxh4vOmURYEC', // replace your_sessionid with yours and make sure its inside the 
+  SESSION_ID: 'kord_ai-PpLmcUR6shhASBACtrue/ replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
@@ -39,7 +39,7 @@ global.settings = {
   ANTI_EDIT_IN_CHAT: true,
   ANTI_PM_SPAM: false, //pm permit 
   ANTI_PM_SPAM_COUNT: 6,
-  AUTO_TYPING:true, // if you wnat the bot to be typing always 
+  AUTO_TYPING: true, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
   ALWAYS_ONLINE: true,
 

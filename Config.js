@@ -39,7 +39,7 @@ global.settings = {
   ANTI_EDIT_IN_CHAT: true,
   ANTI_PM_SPAM: false, //pm permit 
   ANTI_PM_SPAM_COUNT: 6,
-  AUTO_TYPINGtoogle, // if you wnat the bot to be typing always 
+  AUTO_TYPING:true, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
   ALWAYS_ONLINE: true,
 
